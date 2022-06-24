@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Linkedin and youtube
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Java or cpp & Android 
-- 📫 How to reach me: gmail:- tej22upa.dhyay@gmail.com , Insta:-mr.tej_upadhyay
+- 📫 How to reach me: gmail:- tej22upa.dhyay@gmail.com
 - 😄 Pronouns: His/her
 - ⚡ Fun fact: prodcast,music,coding,explore ideas
 
