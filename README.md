@@ -9,3 +9,7 @@
 - 😄 Pronouns: His/her
 - ⚡ Fun fact: prodcast,music,coding,explore ideas
 
+**Languages**
+---
+
+![image](https://www.flaticon.com/free-icon/java_152760?term=java&related_id=152760)
