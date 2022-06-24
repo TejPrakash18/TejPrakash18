@@ -12,4 +12,4 @@
 **Languages**
 ---
 
-![image](https://www.freepik.com/free-icon/java_14254948.htm#query=java%20logo&position=9&from_view=keyword)
+![image]([https://www.freepik.com/free-icon/java_14254948.htm#query=java%20logo&position=9&from_view=keyword](https://www.freepik.com/free-icon/java_14254948.htm#query=java%20logo&position=9&from_view=keyword))
