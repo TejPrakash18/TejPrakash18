@@ -11,5 +11,6 @@
 
 **Languages**
 ---
-
-![image](https://www.flaticon.com/free-icon/java_152760?term=java&related_id=152760)
+```
+![image](https://www.freepik.com/free-icon/java_14254948.htm#query=java%20logo&position=9&from_view=keyword)
+```
