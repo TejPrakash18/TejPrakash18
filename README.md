@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey welcome to my profile  👋
 
 - 🔭 I’m currently working on Android developer
 - 🌱 I’m currently learning self
