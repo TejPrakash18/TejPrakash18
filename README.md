@@ -1,21 +1,95 @@
 ### Hey welcome to my profile  👋
 
-- 🔭 I’m currently working on Android developer
-- 🌱 I’m currently learning self
-- 👯 I’m looking to collaborate on Linkedin and youtube
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Java or cpp & Android 
-- 📫 How to reach me: gmail:- tej22upa.dhyay@gmail.com
-- 😄 Pronouns: His/her
-- ⚡ Fun fact: prodcast,music,coding,explore ideas
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm TejPrakash Upadhyay</h1>
+<h3 align="center">Date with programming, from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mr.tej_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.tej_upadhyay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tej22upa_dhyay?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tej22upa_dhyay" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_2pzhux9rtym/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tej22upadhyay/practice" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="left">⭐ Intro</h3>
+- 🔭 I’m currently learning Full stack Web Developement [MERN] <br>
+- 🔭 I’m currently learning JetPack Compose (Kotlin) <br>
+- 🤔 I’m looking for help with in Web and  App Development <br>
+- 💬 Ask me about anything <br>
+- 📫 How to reach me: tej22upa.dhyay@gmail.com <br>
+- ⚡ Fun fact: Tell Tomorrow <br>
 
+<br>
+
+<!--<h2 align="center">Experience 💻 </h2>
+
+| | | <h3>Organization</h3> | <h3>TechStack</h3> | <h3>Project</h3> | <h3>TimeLine</h3> |  |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Project Mentor & Contributor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/hacktoberfest.jpg" alt="Rait" width="30" height="30"/> | [Hacktoberfest](https://hacktoberfest.com/) | ```Android``` ```Java``` <br> ```Firebase``` |  | Oct 22 - Present | [Completed](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/hactoberfest.png) |
+| Project Mentor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rait.jpg" alt="Rait" width="30" height="30"/> | [Hack Club RAIT](https://soc.hackclubrait.co/) | ```Android``` ```Java``` <br> ```Firebase``` | [Sleepometer](https://github.com/maityamit/Sleepometer-Android-App) | Jul 22 - Present | [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/Hack%20Club%20RAIT%20Project%20Mentor%202022.png) |
+| Contributor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/gssoc.jpg" alt="Rait" width="30" height="30"/> | [GirlScript Summer of Code](https://gssoc.girlscript.tech) | ```Android``` ```Java``` <br> ```Firebase``` ```YAML``` | [9 Pr's Merged](https://github.com/maityamit/maityamit/tree/main/Open%20Source/2022/GSSoC) | Mar 22 - May 22| [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/gssoc'22_cert.png) |
+| Project Mentor | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/jwoc.jpg" alt="Rait" width="30" height="30"/>  | [JGEC Winter of Code](https://jwoc.tech/) | ```Android``` ```Java``` <br> ```Firebase``` | [Tracky](https://github.com/maityamit/Tracky-Track-your-goals-or-targets) | Feb 22 - Mar 22 | [Certificate](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/jwoc_cer.jpg) |
+| Android Development <br>Remote Internship | <img src="https://github.com/maityamit/maityamit/blob/main/Images/Organizations/rubberfy.jpg" alt="Rait" width="30" height="30"/> | [Rubberfy](https://rubberfy.com/) | ```Android``` ```Java``` <br> ```Firebase``` | Remote | Nov 21 - Dec 21 | [Experience Letter](https://github.com/maityamit/maityamit/blob/main/Images/Certificate/rubberfy_cer.jpg) |-->
+
+
+
+
+
+<br>
+
+
+<h3 align="left">⭐ Programming Languages Working💬</h3>
+
+| C++ | Java |
+|-----------|-----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | 
+
+<h3 align="left">⭐ Programming Plateform💬</h3>
+
+|HackerRank | Leetcode | GFG | 
+|--------|--------|---------|
+|<a href="https://www.hackerrank.com/tej22upa_dhyay?hr_r=1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tej22upa_dhyay" height="30" width="40" /> </a>| <a href="https://leetcode.com/TejprakashUpadhyay/" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/TejprakashUpadhyay/" height="30" width="40" /></a> | <a href="https://auth.geeksforgeeks.org/user/user_2pzhux9rtym/practice" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/tej22upadhyay/practice" height="30" width="40" /></a> |
+
+<h3 align="left">⭐ Development Side Working 💻</h3>
+
+|<h3 align="center">Mobile App Development 📱</h3>          |       <h3 align="center">Web Development 💻 </h3>         |
+|:---------------------------------------------------:|:--------------------------------------------------------------------------:|
+| <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="express" width="40" height="40"/> </p> |
+
+<h3 align="left">⭐ Database language ⚙️ </h3>
+
+| MonogoDB | SQL |
+|------|------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
+
+<h3 align="left">⭐ Tools ⚙️ </h3>
+
+| Git | GitHub | Postman | PostgreSql |
+|-----------|-----------|---------|-----------|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /> |
+
+<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+
+
+| Linkedin | GitHub  | Instagram | 
+|-----------|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/tejprakash-upadhyay-b62388169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/Tejprakash18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>| <p align="center"><a href="https://instagram.com/mr.tej_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
+   
+     
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejprakash18&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
+
+## 📊 GitHub Activity
+| ![Tejprakash github stats](https://github-readme-stats.vercel.app/api?username=Tejprakash18&show_icons=true&theme=radical) | ![Tejprakash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejprakash18&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejprakash18&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tejprakash18&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+
+
+## 📚 My Education Status
+
+
+<h4>⌚ BCA (CSE) at Gagan Collage of management of technology ('25) </h4>
+<h4>⌚ Diploma (CSE) at Mg polytechnic hathras [2021 Passout]
+<h4>🏆 Top 5 Students in 10th & 12th Boards (UP) </h4>
+<h4>⌛ Class 12th at Shri Devi prashad memorail collage Iglas [2k18] </h4>
+
+<br>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
