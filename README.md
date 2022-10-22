@@ -1,7 +1,5 @@
-### Hey welcome to my profile  👋
-
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm TejPrakash Upadhyay</h1>
-<h3 align="center">Date with programming, from India</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm TejPrakash Upadhyay 👋</h1>
+<h3 align="center">Date with programming, from India </h3>
 
 <h3 align="left">⭐ Intro</h3>
 - 🔭 I’m currently learning Full stack Web Developement [MERN] <br>
