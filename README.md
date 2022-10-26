@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning DSA(CPP) <br>
 - 🤔 I’m looking for help with in Web and  App Development <br>
 - 💬 Ask me about anything <br>
-- 📫 How to reach me: tej22upa.dhyay@gmail.com <br>
+- 📫 How to reach me: "tej22upa.dhyay@gmail.com" <br>
 - ⚡ Fun fact: Tell Tomorrow <br>
 
 <br>
@@ -70,7 +70,7 @@
 
 <h4>⌚ BCA (CSE) at Gagan Collage of management of technology ('25) </h4>
 <h4>⌚ Diploma (CSE) at Mg polytechnic hathras [2021 Passout]
-<h4>🏆 Top 5 Students in 10th & 12th Boards (UP) </h4>
+<h4>🏆 Top 5 Students in 10th & 12th UP-Boards (College) </h4>
 <h4>⌛ Class 12th at Shri Devi prashad memorail collage Iglas [2k18] </h4>
 
 <br>
