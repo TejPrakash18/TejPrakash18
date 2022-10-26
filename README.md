@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning DSA(CPP) <br>
 - 🤔 I’m looking for help with in Web and  App Development <br>
 - 💬 Ask me about anything <br>
-- 📫 How to reach me: link[tej22upa.dhyay@gmail.com] <br>
+- 📫 How to reach me: [gmail](tej22upa.dhyay@gmail.com) <br>
 - ⚡ Fun fact: Tell Tomorrow <br>
 
 <br>
