@@ -5,7 +5,7 @@
 
 <h3 align="left">⭐ Intro</h3>
 - 🔭 I’m currently learning Full stack Web Developement [MERN] <br>
-- 🔭 I’m currently learning DSA(CPP) <br>
+- 🔭 I’m currently learning DSA(java) <br>
 - 🤔 I’m looking for help with in Web and  App Development <br>
 - 💬 Ask me about anything <br>
 - 📫 How to reach me: [gmail](tej22upa.dhyay@gmail.com) <br>
