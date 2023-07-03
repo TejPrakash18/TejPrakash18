@@ -33,15 +33,15 @@
 
 <h3 align="left">⭐ Database language ⚙️ </h3>
 
-| MonogoDB | SQL |
-|------|------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
+| SQL |
+|------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
 
 <h3 align="left">⭐ Tools ⚙️ </h3>
 
-| Git | GitHub | Postman | PostgreSql |
-|-----------|-----------|---------|-----------|
-|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /> |
+| Git | GitHub | PostgreSql |
+|-----------|---------|-----------|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40px" width="40px" /> |
 
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
