@@ -17,10 +17,9 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
   </a>
 -->
   
-  <!--<a href="https://twitter.com/tej" title="Redirect to Twitter">
-    <img src="/assets/twitter.png" width="120" alt="Twitter" />
+  <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode">
+    <img src="/assets/pngwing.png" width="120" alt="leetcode" />
   </a>
-  -->
   
   <a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
