@@ -22,7 +22,7 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
   </a>
   
   <a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" title="Redirect to LinkedIn">
-    <img src="/assets/linkedin.png" width="48" alt="LinkedIn" />
+    <img src="/assets/linkedin (2).png" width="48" alt="LinkedIn" />
   </a>
   
   <a href="https://www.instagram.com/tejupadhyay22" title="Redirect to Instagram">
