@@ -18,19 +18,19 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
 -->
   
   <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode">
-    <img src="/assets/leetcode.png" width="120" alt="leetcode" />
+    <img src="/assets/leetcode.png" width="48" alt="leetcode" />
   </a>
   
   <a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" title="Redirect to LinkedIn">
-    <img src="/assets/linkedin.png" width="120" alt="LinkedIn" />
+    <img src="/assets/linkedin.png" width="48" alt="LinkedIn" />
   </a>
   
   <a href="https://www.instagram.com/tejupadhyay22" title="Redirect to Instagram">
-    <img src="/assets/instagram.png" width="120" alt="Instagram" />
+    <img src="/assets/instagram.png" width="48" alt="Instagram" />
   </a>
 
   <a href="https://medium.com/@tej22upa.dhyay" title="Redirect to Dev.To">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" />
+    <img src="/assets/medium.png" width="50" alt="Medium" />
   </a>
 
 </p>
