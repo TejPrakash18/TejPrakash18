@@ -5,8 +5,9 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
 
 - 👨‍🎓 21 years old computer science engineer.
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Mobile App developer.
-- 😍 Loves to write blogs and record videos for youtube ❤️
+- 📱 Passionate Android Developer 📱  
+- 🤝Enthusiastic about helping others 
+- 🌟Let's code to create a better world! 
 
 **Connect with me** 👇
 
