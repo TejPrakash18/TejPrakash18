@@ -26,7 +26,7 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
     <img src="/assets/linkedin (2).png" width="48" alt="LinkedIn" />
   </a>
   
-  <a href="https://www.instagram.com/tejupadhyay22" title="Redirect to Instagram">
+  <a href="https://www.instagram.com/tejupadhyay07" title="Redirect to Instagram">
     <img src="/assets/instagram (2).png" width="48" alt="Instagram" />
   </a>
 
