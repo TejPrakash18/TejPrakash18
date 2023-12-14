@@ -30,11 +30,6 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
     <img src="/assets/instagram (2).png" width="48" alt="Instagram" />
   </a>
   
-<--
-  <a href="https://medium.com/@tej22upa.dhyay" title="Redirect to Dev.To">
-    <img src="/assets/medium.png" width="50" alt="Medium" />
-  </a>
-  -->
 
 </p>
 
