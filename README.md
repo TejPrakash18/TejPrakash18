@@ -1,4 +1,4 @@
-### # Hi there👋! I'm TejPrakash Upadhyay 😇
+### I'm TejPrakash Upadhyay 😇
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tejprakash18" alt="TejPrakash" /> </p>
 
 - 🧑🏽‍💻 Mobile App Developer @Tej Upadhyay
