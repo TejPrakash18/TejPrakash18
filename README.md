@@ -33,10 +33,17 @@ _**LATEST UPDATE:**_ <i>Learning Android development , kotlin & jetpack compose 
 
 </p>
 
-**My github stats**
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=tejprakash18&count_private=true&show_icons=true&theme=radical" />
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&show_icons=true&locale=en" alt="TejPrakash18" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&layout=compact"/>
 
 **My Activity**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejprakash18&" alt="TejPrakash" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejprakash18&" alt="TejPrakash" /></p>
+</details>
+
+
+
+
 
