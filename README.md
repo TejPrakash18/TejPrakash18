@@ -1,6 +1,5 @@
 ### I'm Tej Upadhyay👋
 <p align="center">    
-  
   [![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https://visitcount.itsvg.in)
 
 </p>
