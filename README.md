@@ -1,7 +1,7 @@
 ### I'm Tej Upadhyay👋     
 <p align="center">   
   
-                [![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https://visitcount.itsvg.in)
+                [![](https://visitcount.itsvg.in/api?id=TejPrakash18&icon=4&color=0)](https://visitcount.itsvg.in)
 
 </p>
 - 🧑🏽‍💻 Mobile App Developer @Tej Upadhyay
