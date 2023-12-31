@@ -1,6 +1,8 @@
 ### I'm Tej Upadhyay👋      
   <center>
-    ### [![](https://visitcount.itsvg.in/api?id=TejPrakash18&icon=4&color=0)](https://visitcount.itsvg.in) 
+    
+### [![](https://visitcount.itsvg.in/api?id=TejPrakash18&icon=4&color=0)](https://visitcount.itsvg.in) 
+
   </center>
     
 
