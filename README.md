@@ -1,4 +1,6 @@
-### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https://visitcount.itsvg.in)
+### I'm Tej Upadhyay👋
+
+<p align="center"> [![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=4&color=0)](https://visitcount.itsvg.in) </p>
 
 - 🧑🏽‍💻 Mobile App Developer @Tej Upadhyay
 - 💬 Ask me about **Kotlin, Java, MVVM, Android Jetpack, FrontEnd**
