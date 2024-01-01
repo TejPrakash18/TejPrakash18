@@ -9,17 +9,23 @@
 **Connect with me** 👇
 
 <p float="left">
-  
-  <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode">
-    <img src="/assets/leetcode.png" width="40" alt="leetcode" />
-  </a>
-  
+   
   <a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" title="Redirect to LinkedIn">
-    <img src="/assets/linkedin (2).png" width="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://www.instagram.com/tejupadhyay07" title="Redirect to Instagram">
-    <img src="/assets/instagram (2).png" width="48" alt="Instagram" />
+
+  <a href="https://github.com/TejPrakash18" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode" target="_blank">
+    <img src=https://img.shields.io/badge/Leetcode-FFBF00?style=for-the-badge&logo=leetcode&logoColor=black
+ alt=github style="margin-bottom: 5px;" />  </a>
+  <a href="https://www.instagram.com/tejupadhyay07" title="Redirect to Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+   <a href="https://tejprakash18.github.io/portfolio/index.html" title="portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-8B89CC?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" />
   </a>
 
 </p>
