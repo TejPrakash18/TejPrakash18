@@ -31,9 +31,9 @@
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&show_icons=true&locale=en" alt="TejPrakash18" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&layout=compact"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejprakash18&" alt="TejPrakash" />
+<!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejprakash18&" alt="TejPrakash" />
 <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=TejPrakash18&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Tej" />
-
+ -->
 </details>
 
 
