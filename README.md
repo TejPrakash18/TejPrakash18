@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/tejprakash-upadhyay-b62388169/" title="Redirect to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     
-  <a href="https://github.com/TejPrakash18" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a> 
-    
   <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode" target="_blank">
     <img src=https://img.shields.io/badge/Leetcode-FFBF00?style=for-the-badge&logo=leetcode&logoColor=black
  alt=github style="margin-bottom: 5px;" /></a>
