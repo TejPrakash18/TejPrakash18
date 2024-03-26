@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/TejprakashUpadhyay/" title="Redirect to leetcode" target="_blank">
     <img src=https://img.shields.io/badge/Leetcode-FFBF00?style=for-the-badge&logo=leetcode&logoColor=black
  alt="github" style="margin-bottom: 5px;"/></a>
-  <a href="https://www.instagram.com/tejupadhyay07" title="Redirect to Instagram" target="_blank">
+  <a href="https://www.instagram.com/thetejupadhyay" title="Redirect to Instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
    <a href="https://tejprakash18.github.io/portfolio/index.html" title="portfolio" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-8B89CC?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" /></a>  
