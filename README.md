@@ -1,7 +1,7 @@
 ### I'm Tej Upadhyay👋      
     
 - 🧑🏽‍💻 Mobile App Developer @Tej Upadhyay
-- 💬 Ask me about **Java, Kotlin, JavaScript, MVVM**
+- 💬 Ask me about **Java, Kotlin, JavaScript, MVVM, spring-boot**
 - 🌱 I’m currently learning **Jetpack Compose**
 - 🤝I’m looking to collaborate on **Mobile and Front-End Projects**
 - 📫 How to reach me **tej22upa.dhyay@gmail.com**
