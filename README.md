@@ -25,19 +25,19 @@
 Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been working on honing my skills in both Android and Java development.
 
 ### ⚙️ What I Do:
-- 🧩 **Frontend:** I work with `XML`, `Material`, `Jetpack compose`, `And Tailwind CSS`, to build dynamic and responsive user interfaces.
+- 🧩 **Frontend:** I am familiar with `XML`, `Material`, `Jetpack compose`, `And Tailwind CSS`, to build dynamic and responsive user interfaces.
 
-- 🧩 **Backend:** I specialize in `Spring-boot`, to create powerful APIs and backend services. I use tools like `OAuth2.0`, `And JWT`, to handle various backend tasks efficiently.
+- 🧩 **Backend:** I am specialized in `Spring-boot`, to create powerful APIs and backend services. I use tools like `OAuth2.0`, `And JWT`, to handle various backend tasks efficiently.
 
 - 🧩 **Database:** I am proficient with `PostgreSQL` for managing and scaling data effectively.
 
 ### ⚙️ Additional Skills:
-- 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps me solve complex problems efficiently.
-- 🏆 I am knowledgeable in **Low-Level Design** for optimal system performance.
-- 🏆 I am also skilled in **Java** and **Kotlin**, which broadens my ability to work across different technologies.
+- 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps to solve complex problems efficiently.
+- 🏆 I have a brief knowledge of **Low-Level Design** for optimal system performance.
+- 🏆 I have the idea of professional skills in **Java** and **Kotlin**, which broadens my ability to work across different technologies.
 
 ### ⚙️ Deployment:
-I have experience with deployment tools and practices such as `Git & GitHub` for version control for deploying applications.
+I am also familiar with deployment tools and practices like `Git & GitHub` for version control for deploying applications.
 
 ### 🧑🏻‍💻 Searching Job Opportunities:
 I am currently looking for opportunities as a **Software Development Engineer (SDE)**, **Backend Developer**, **Full Stack Developer**. Feel free to connect with me at `tej22upa.dhyay@gmail.com`. I’m excited to explore new opportunities and collaborations.
