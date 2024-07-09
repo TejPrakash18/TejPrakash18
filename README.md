@@ -22,7 +22,7 @@
 </p>
 
 ### 🙋🏻‍♂️ About Me
-Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been working on honing my skills in both frontend and Android and Java development.
+Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been working on honing my skills in both Android and Java development.
 
 ### ⚙️ What I Do:
 - 🧩 **Frontend:** I work with `XML`, `Material`, `Jetpack compose`, `And Tailwind CSS`, to build dynamic and responsive user interfaces.
