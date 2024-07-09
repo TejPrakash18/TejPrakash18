@@ -37,7 +37,7 @@ Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and sca
 - 🏆 I am also skilled in **Java** and **Kotlin**, which broadens my ability to work across different technologies.
 
 ### ⚙️ Deployment:
-I have experience with deployment tools and practices such as `Git & GitHub` for version control, and Google Cloud for deploying applications.
+I have experience with deployment tools and practices such as `Git & GitHub` for version control for deploying applications.
 
 ### 🧑🏻‍💻 Searching Job Opportunities:
 I am currently looking for opportunities as a **Software Development Engineer (SDE)**, **Backend Developer**, **Full Stack Developer**. Feel free to connect with me at `tej22upa.dhyay@gmail.com`. I’m excited to explore new opportunities and collaborations.
