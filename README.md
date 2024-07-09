@@ -21,14 +21,6 @@
     <img src="https://img.shields.io/badge/portfolio-8B89CC?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" /></a>  
 </p>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<img height="118em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="TejPrakash18"/>
-<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="TejPrakash18"/>
-<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=midnight-purple&hide_border=true"/>
-
-</details>
-
 ### 🙋🏻‍♂️ About Me
 Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been working on honing my skills in both frontend and Android and Java development.
 
@@ -51,8 +43,12 @@ I have experience with deployment tools and practices such as `Git & GitHub` for
 I am currently looking for opportunities as a **Software Development Engineer (SDE)**, **Backend Developer**, **Full Stack Developer**. Feel free to connect with me at `tej22upa.dhyay@gmail.com`. I’m excited to explore new opportunities and collaborations.
 
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+<img height="118em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="TejPrakash18"/>
+<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="TejPrakash18"/>
+<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=midnight-purple&hide_border=true"/>
 
-
-
+</details>
 
 
