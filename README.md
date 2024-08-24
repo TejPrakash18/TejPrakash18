@@ -10,10 +10,10 @@
 
 
 ### 🙋🏻‍♂️ About Me
-Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been working on honing my skills in both Android and Java development.
+Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been honing my skills in Android and Java development.
 
 ### ⚙️ What I Do:
-- 🧩 **Frontend:** I am familiar with `XML`, `Material`, `Jetpack compose`, `MVVM`, `thymeleaf` `And Tailwind CSS`,  to build dynamic and responsive user interfaces.
+- 🧩 **Frontend:** I am familiar with `XML`, `Material`, `Jetpack compose`, `MVVM`,`MVC` `thymeleaf` `And Tailwind CSS`,  to build dynamic and responsive user interfaces.
 
 - 🧩 **Backend:** I am specialized in `Spring-boot`, to create powerful APIs and backend services.
 
@@ -21,7 +21,7 @@ Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and sca
 
 ### ⚙️ Additional Skills:
 - 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps to solve complex problems efficiently.
-- 🏆 I have a brief knowledge of **Low-Level Design** for optimal system performance.
+- 🏆 I know briefly about **Low-Level Design** for optimal system performance.
 - 🏆 I have the idea of professional skills in **Java** and **Kotlin**, which broadens my ability to work across different technologies.
 
 ### ⚙️ Deployment:
