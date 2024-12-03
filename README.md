@@ -15,7 +15,7 @@ Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and sca
 ### ⚙️ What I Do:
 - 🧩 **Frontend:** I am familiar with `XML`, `Material`, `Jetpack compose`, `MVVM`,`MVC` `thymeleaf` `And Tailwind CSS`,  to build dynamic and responsive user interfaces.
 
-- 🧩 **Backend:** I am specialized in `Spring-boot`, to create powerful APIs and backend services.
+- 🧩 **Backend:** I specialize in `Spring-boot` and `Node.js` to create powerful APIs and backend services.
 
 - 🧩 **Database:** I am proficient with `PostgreSQL` for managing and scaling data effectively.
 
