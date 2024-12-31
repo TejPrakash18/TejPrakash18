@@ -7,7 +7,9 @@
 - 📫 How to reach me **tej22upa.dhyay@gmail.com**
 
 -->
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
+   <div align="center">
 
 ### 🙋🏻‍♂️ About Me
 Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been honing my skills in Android and Java development.
@@ -56,5 +58,7 @@ I am currently looking for opportunities as a **Software Development Engineer (S
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=midnight-purple&hide_border=true"/>
 
 </details>
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
 
