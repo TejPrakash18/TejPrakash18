@@ -51,9 +51,9 @@ I am currently looking for opportunities as a **Software Development Engineer (S
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="118em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="TejPrakash18"/>
-<img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="TejPrakash18"/>
-<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=midnight-purple&hide_border=true"/>
+<!-- <img height="118em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="TejPrakash18"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="TejPrakash18"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=midnight-purple&hide_border=true"/>
 
 </details>
 
