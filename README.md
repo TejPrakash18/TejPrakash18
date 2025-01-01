@@ -18,7 +18,7 @@ Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and sca
 
 - 🧩 **Backend:** I specialize in `Spring-boot` and `Node.js` to create powerful APIs and backend services.
 
-- 🧩 **Database:** I am proficient with `PostgreSQL` for managing and scaling data effectively.
+- 🧩 **Database:** I am proficient with `PostgreSQL` and `mongoose` for managing and scaling data effectively.
 
 ### ⚙️ Additional Skills:
 - 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps to solve complex problems efficiently.
