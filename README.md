@@ -1,9 +1,9 @@
 <!-- ### I'm Tej Upadhyay👋      
     
-- 🧑🏽‍💻 Mobile App Developer @Tej Upadhyay
-- 💬 Ask me about **Java, Kotlin, JavaScript, Spring-Boot, MVC, MVVM, Jetpack Compose**
+- 🧑🏽‍💻 Backend Developer @Tej Upadhyay
+- 💬 Ask me about **Java, JavaScript, React, Spring-Boot, MicroServices, MVC**
 - 🌱 I’m currently learning **Spring-Boot**
-- 🤝 I’m looking to collaborate on **Mobile and Java Projects**
+- 🤝 I’m looking to collaborate on **React and Java Projects**
 - 📫 How to reach me **tej22upa.dhyay@gmail.com**
 
 -->
@@ -11,24 +11,24 @@
 
 
 ### 🙋🏻‍♂️ About Me
-Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been honing my skills in Android and Java development.
+Hi there! I'm Tej Upadhyay, a developer passionate about creating robust and scalable Android applications. I pursued my Bachelor of Computer Applications (BCA), and since then, I've been honing my skills in front-end and Java development.
 
 ### ⚙️ What I Do:
-- 🧩 **Frontend:** I am familiar with `XML`, `Material`, `Jetpack compose`, `MVVM`,`MVC` `thymeleaf` `And Tailwind CSS`,  to build dynamic and responsive user interfaces.
+- 🧩 **Frontend:** I am familiar with `React`, `Material`, `Redux`, `MVC`, `thymeleaf`, and `Tailwind CSS`  to build dynamic and responsive user interfaces.
 
-- 🧩 **Backend:** I specialize in `Spring-boot` and `Node.js` to create powerful APIs and backend services.
+- 🧩 **Backend:** I specialize in `Spring-boot`  to create powerful APIs and backend services.
 
-- 🧩 **Database:** I am proficient with `PostgreSQL` and `mongoose` for managing and scaling data effectively.
+- 🧩 **Database:** I am proficient with PostgreSQL and Mongoose for managing and scaling data effectively.
 
 ### ⚙️ Additional Skills:
-- 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps to solve complex problems efficiently.
+- 🏆 I have a solid understanding of **Data Structures and Algorithms**, which helps solve complex problems efficiently.
 - 🏆 I know briefly about **Low-Level Design** for optimal system performance.
-- 🏆 I have the idea of professional skills in **Java** and **Kotlin**, which broadens my ability to work across different technologies.
+🏆 I have professional skills in Java and JavaScript, which broaden my ability to work across different technologies.
 
 ### ⚙️ Deployment:
 I am also familiar with deployment tools and practices like `Git & GitHub` for version control for deploying applications.
 
-### 🧑🏻‍💻 Searching Job Opportunities:
+### 🧑🏻‍💻 Searching for Job Opportunities:
 I am currently looking for opportunities as a **Software Development Engineer (SDE)**, **Backend Developer**, **Full Stack Developer**. Feel free to connect with me at `tej22upa.dhyay@gmail.com`. I’m excited to explore new opportunities and collaborations.
 
 
