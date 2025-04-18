@@ -44,8 +44,6 @@ I am currently looking for opportunities as a **Software Development Engineer (S
   <a href="https://www.hackerrank.com/profile/Tejprakash18" title="Redirect to Hackerrank" target="_blank">
     <img src=https://img.shields.io/badge/Hackerrank-008000?style=for-the-badge&logo=hackerrank&logoColor=black
  alt="github" style="margin-bottom: 5px;"/></a>
-  <a href="https://www.instagram.com/thetejupadhyay" title="Redirect to Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
    <a href="https://linktr.ee/thetej" title="portfolio" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-8B89CC?style=for-the-badge&logo=portfolio&logoColor=white" alt="portfolio" /></a>  
 </p>
