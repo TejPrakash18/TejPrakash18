@@ -35,7 +35,9 @@ public class TejUpadhyay extends BackendDeveloper {
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat&logo=icloud&logoColor=white)
+![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-Backend%20Architecture-009688?style=flat&logo=server&logoColor=white)
+
+
 
 
 ### **Database & Storage**
