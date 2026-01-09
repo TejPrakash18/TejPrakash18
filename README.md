@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Tej Upadhyay
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Nodejs+%26+Spring+Boot+Expert;Microservices+Architect;Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Nodejs+%26+Spring+Boot+Expert;Modular+Architect;Full+Stack+Engineer" alt="Typing SVG" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&text=&fontSize=0"/>
 
 ## 🚀 About Me
 
-**Passionate Backend Developer** with expertise in building **scalable, robust APIs** and **microservices architectures**. Currently specializing in **Spring Boot ecosystem** and **Node.js** modern backend technologies.
+**Passionate Backend Developer** with expertise in building **scalable, robust APIs** and **modular monolithic**. Currently specializing in **Spring Boot ecosystem** and **Node.js** modern backend technologies.
 
 ```java
 public class TejUpadhyay extends BackendDeveloper {
