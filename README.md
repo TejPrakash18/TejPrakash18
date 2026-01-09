@@ -56,19 +56,17 @@ public class TejUpadhyay extends BackendDeveloper {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-## 📈 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=TejPrakash18&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=58A6FF&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejPrakash18&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF"/>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=TejPrakash18&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
-</div>
+</div> -->
 
-## 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejPrakash18&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
+<!-- <div align="center"> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=TejPrakash18&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1"/> -->
+<!-- </div> -->
 
 ## 🔗 Let's Connect & Collaborate
 
